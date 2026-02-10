@@ -4,7 +4,7 @@ Contact: git@spoljarevic.info
 Socials: https://linksta.cc/@spoljarevic
 Projects: https://linksta.cc/@spoljarevic-projects
 Date created: 2026-02-10
-Last changed: 2026-02-10
+Last changed: 2026-02-11
 ```
 
 **Greetings everyone**
@@ -122,7 +122,7 @@ I'm sick of it and if it wasn't for a few creators, I would've done it already.
 On a Discord Server I joined, I met a girl that was really nice.
 Even tho she was the server admin, she was open for me to DM her and we talked a lot over the next days.
 It's really nice to meet new people and make potential friends, but it's to early to call it that.
-This shows that you should take the step and even ask people you think are untuchable (in a sense of too high of a rank) and just see what happens.
+This shows that you should take the step and even ask people you think are untouchable (in a sense of too high of a rank) and just see what happens.
 This way I met a lot of my friends and it almost always works.
 Be brave and just ask people you think are nice!
 The same thing happened on another server a few weeks ago too.
