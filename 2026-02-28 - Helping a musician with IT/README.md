@@ -191,3 +191,20 @@ If you want to talk with her and her community directly, she also has a Discord 
 
 ## Words from Ronja herself ##
 Asked Ronja if she wants to say something, but have not recieved a reply yet.
+
+## End notes ##
+I know it's not much, but I'm really happy that I'm able to help Ronja a little.
+
+If you see this blog on my website, you might have noticed that I put a lot of different pictures on the whole blog and an embeded YouTube Video.
+
+Not sure if I like it or not, but I wanted to test it out.
+
+Need to look at it a few more times until I can decide if they stay or if I prefer the cleaner look.
+
+But I also want to hear your opinion.
+The day this blog post releases, I'm gonna open a issue over on Codeberg in my Blog Repo where I ask for your opinion.
+
+Feel free to write your honest opinion so that I can see what y'all want.
+The issue's gonna be open until the next Blog post (probably a week later) releases.
+
+I wish you an awesome day and remember... **Stay private. Stay root**.
