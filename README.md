@@ -1,6 +1,8 @@
-# Notes about this Project
+# Important
+All of my Blogs got migrated to a dedicated Organisation.
 
-All the code gets published to **Codeberg**. All other platforms are just mirrors.
+This way, I can use rules to determan which users on which tier can enjoy their benefits on codeberg too.
 
-Issues, pull requests, and everything else will only be looked at on **codeberg.org**.
+The organisation is called spoljarevic-blog and can be found [here](https://codeberg.org/spoljarevic-blog).
 
+**New Blog posts will be posted there!**
